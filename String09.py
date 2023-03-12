@@ -7,4 +7,6 @@ def main(s):
         int: answer
     """
     
-    return
+    return s.count("a")
+
+print(main("Carabella"))
