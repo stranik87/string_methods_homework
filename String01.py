@@ -7,6 +7,6 @@ def main(s):
         str: answer
     """
     
-    return s.capitalize()
+    return s.title()
 
-print(main("crud"))
+print(main("crud and python"))
